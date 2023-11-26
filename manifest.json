@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Linkedin - Remove Promotion",
+    "name": "Linkedin - Remove Promoted Jobs",
     "version": "1.0",
     "description": "Simplify Your Job Search:  Remove Promoted Jobs in Just One Click!",
     "permissions": [
