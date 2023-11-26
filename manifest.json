@@ -5,7 +5,6 @@
     "description": "Simplify Your Job Search:  Remove Promoted Jobs in Just One Click!",
     "permissions": [
       "storage",
-      "activeTab",
       "tabs",
       "scripting"
     ],
